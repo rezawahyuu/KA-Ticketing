@@ -1,5 +1,5 @@
 # KA-Ticketing
-Aplikasi Mobile E-Ticketing Kereta Api antar kota
+Aplikasi Mobile E-Ticketing Kereta Api antar kota (Mobile Programming)
 
 
 ![image](https://user-images.githubusercontent.com/73221915/218748892-e197bc04-2830-44ec-b9c3-50766eb4b692.png)
